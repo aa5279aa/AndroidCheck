@@ -15,7 +15,8 @@ import org.dom4j.io.SAXReader;
 
 /**
  * 检查可复用的xml文件
- * @author xiangleiliu
+ * 所有结构一样的xm，则为可复用的xml
+ * @author lxl
  *
  */
 public class CheckXML {
